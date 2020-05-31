@@ -1,6 +1,6 @@
 hub hybridALC_onA1
 shortLabel hub_short_label
 longLabel  hub_long_label
-genomesFile genome_felcat9.txt
+genomesFile https://github.com/joanpontius/ALC/blob/master/genome_felcat9.txt
 email joanpontius@gmail.com
 descriptionUrl 
