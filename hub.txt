@@ -1,6 +1,6 @@
 hub hybridALC_onA1
 shortLabel hub_short_label
 longLabel  hub_long_label
-genomesFile genome_felcat9.txt?token=APY7X2WKHVTC2RH6PJTPPPC62OWKS
+genomesFile genome_felcat9.txt?token=APY7X2U6C6TPMU26L56HOPS62OWZQ
 email joanpontius@gmail.com
 descriptionUrl 
