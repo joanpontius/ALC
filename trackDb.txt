@@ -1,0 +1,5 @@
+track HybridALC
+bigDataUrl https://raw.githubusercontent.com/joanpontius/ALC/master/UCSC_total.bed?token=APY7X2SRPT4FYLIV22ETP2262OSMS
+shortLabel testShortLabel
+longLabel testLongLabel
+type bed
