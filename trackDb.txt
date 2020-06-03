@@ -2,4 +2,4 @@ track HybridALC
 bigDataUrl UCSC_total.bed
 shortLabel testShortLabel
 longLabel testLongLabel
-type bed
+type bigBed
