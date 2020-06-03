@@ -1,2 +1,2 @@
-genome felcat9
+genome felCat9
 trackDb trackDb.txt
