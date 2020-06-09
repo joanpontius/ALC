@@ -1,5 +1,5 @@
 track HybridALC
 bigDataUrl UCSC_total_sorted_felcat9_big.bed
-shortLabel testShortLabel
-longLabel testLongLabel
+shortLabel ALCblocks_shortlabel
+longLabel ALCblocks
 type bigBed
