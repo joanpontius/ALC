@@ -1,5 +1,5 @@
 track HybridALC_chr
-bigDataUrl UCSC.bb
+bigDataUrl UCSC_sorted.bb
 shortLabel ALCblocks_perChr
 longLabel ALCblocksPerChromosome
 type bigBed
