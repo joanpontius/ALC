@@ -1,5 +1,5 @@
 hub hybridALC_chr
-shortLabel ALC_blocks_perChromosome
-longLabel  ALC_blocksPerChromosome
+shortLabel test_ALC_blocks_perChromosome
+longLabel  test_ALC_blocksPerChromosome
 genomesFile genome_felcat8.txt
 email joanpontius@gmail.com
