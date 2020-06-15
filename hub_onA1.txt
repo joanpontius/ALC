@@ -1,0 +1,5 @@
+hub hybridALC_onA1
+shortLabel ALC_blocks_perGenome
+longLabel  ALC_blocksPerGenome
+genomesFile genome_felcat9.txt
+email joanpontius@gmail.com
