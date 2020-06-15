@@ -1,4 +1,4 @@
-track HybridALC_chr
+track HybridALC_chrRow
 bigDataUrl UCSC_perRow.bb
 shortLabel test2_ALCblocks_perChr
 longLabel test2_ALCblocksPerChromosome
