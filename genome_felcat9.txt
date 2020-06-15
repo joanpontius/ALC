@@ -1,2 +1,2 @@
 genome felCat9
-trackDb trackDb.txt
+trackDb trackDb_onA1.txt
