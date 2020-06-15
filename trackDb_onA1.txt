@@ -1,0 +1,6 @@
+track HybridALC_genome
+bigDataUrl UCSC_A1.bb
+shortLabel ALCblocks_perGenome
+longLabel ALCblocksPerGenome
+itemRgb on
+type bigBed 12
