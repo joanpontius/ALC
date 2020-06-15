@@ -1,5 +1,0 @@
-track HybridALC
-bigDataUrl UCSC_total_sorted_felcat9_big.bed
-shortLabel ALCblocks_entireGenome
-longLabel ALCblocksEntireGenome
-type bigBed
