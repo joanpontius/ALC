@@ -1,5 +1,5 @@
 track HybridALC
-bigDataUrl UCSC_perRow.bb
+bigDataUrl UCSC.bb
 shortLabel ALCblocks_perChr
 longLabel ALCblocksPerChromosome
 itemRgb on
