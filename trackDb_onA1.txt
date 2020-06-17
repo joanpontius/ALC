@@ -1,5 +1,5 @@
 track HybridALC_genome
-bigDataUrl UCSC_A1.bb
+bigDataUrl UCSC_A1_ranked.bb
 shortLabel ALCblocks_perGenome
 longLabel ALCblocksPerGenome
 itemRgb on
