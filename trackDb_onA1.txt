@@ -6,7 +6,7 @@ itemRgb on
 type bigBed 12
 
 track HybridALC_BXD126
-bigDataUrl UCSC_A1_126.bb
+bigDataUrl UCSC_A1_126.bed.bb
 shortLabel ALCblocks_126
 longLabel ALCblocks_126
 itemRgb on
