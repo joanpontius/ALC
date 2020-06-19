@@ -26,4 +26,13 @@ longLabel ALCblocks_TBD
 itemRgb on
 type bigBed 12
 
+track HybridALC_78
+bigDataUrl UCSC_A1_78.bed.bb
+shortLabel ALCblocks_78
+longLabel ALCblocks_78
+itemRgb on
+type bigBed 12
+
+
+
 
