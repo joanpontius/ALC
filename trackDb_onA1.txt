@@ -11,3 +11,10 @@ shortLabel ALCblocks_126
 longLabel ALCblocks_126
 itemRgb on
 type bigBed 12
+
+track HybridALC_BXD98
+bigDataUrl UCSC_A1_BXD198.bed.bb
+shortLabel ALCblocks_98
+longLabel ALCblocks_98
+itemRgb on
+type bigBed 12
