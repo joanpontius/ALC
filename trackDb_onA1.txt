@@ -11,6 +11,3 @@ shortLabel ALCblocks_126
 longLabel ALCblocks_126
 itemRgb on
 type bigBed 12
-
-
-
